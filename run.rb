@@ -1,3 +1,5 @@
+require './not_relevant'
+
 module Run
   extend self
 
