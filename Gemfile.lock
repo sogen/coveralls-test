@@ -41,5 +41,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coveralls (= 0.7.4)
+  coveralls
   rspec
