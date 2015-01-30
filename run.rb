@@ -4,6 +4,7 @@ module Run
   extend self
 
   # hey look a comment
+  # moarrrr
 
   def this_is_covered
     1
