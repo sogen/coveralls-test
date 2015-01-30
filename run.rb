@@ -3,6 +3,8 @@ require './not_relevant'
 module Run
   extend self
 
+  # hey look a comment
+
   def this_is_covered
     1
   end
