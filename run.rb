@@ -10,4 +10,8 @@ module Run
   def this_is_not_covered
     0
   end
+
+  def covered_in_another_node
+    1
+  end
 end
