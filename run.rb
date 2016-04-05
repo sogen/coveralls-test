@@ -21,6 +21,14 @@ module Run
     0
   end
 
+  def this_is_not_covered4
+    0
+  end
+
+  def this_is_not_covered5
+    0
+  end
+
   def covered_in_another_node
     1
   end
