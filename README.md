@@ -9,3 +9,10 @@ Coveralls
 
 CircleCI
 [![CircleCI](https://circleci.com/gh/sogen/coveralls-test.svg?style=svg)](https://circleci.com/gh/sogen/coveralls-test)
+
+
+CodeClimate
+[![Code Climate](https://codeclimate.com/github/sogen/coveralls-test/badges/gpa.svg)](https://codeclimate.com/github/sogen/coveralls-test)
+
+CodeClimate issue
+[![Issue Count](https://codeclimate.com/github/sogen/coveralls-test/badges/issue_count.svg)](https://codeclimate.com/github/sogen/coveralls-test)
