@@ -19,3 +19,8 @@ CodeClimate issue
 
 Codacy
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/785775ef18c4427fbdf4d6213d2044ab)](https://www.codacy.com/app/genaropaez/coveralls-test?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sogen/coveralls-test&amp;utm_campaign=Badge_Grade)
+
+
+GitLab
+[![build status](https://gitlab.com/sogen/coveralls-test/badges/master/build.svg)](https://gitlab.com/sogen/coveralls-test/commits/master)
+
