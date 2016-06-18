@@ -25,3 +25,7 @@ GitLab
 [![build status](https://gitlab.com/sogen/coveralls-test/badges/master/build.svg)](https://gitlab.com/sogen/coveralls-test/commits/master)
 
 
+Codeship
+[ ![Codeship Status for sogen/coveralls-test](https://codeship.com/projects/bf4c8c50-17ce-0134-846e-2a776fb5d411/status?branch=master)](https://codeship.com/projects/158603)
+
+
