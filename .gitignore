@@ -1,2 +1,4 @@
 coverage
 .tddium*
+
+.DS_Store
