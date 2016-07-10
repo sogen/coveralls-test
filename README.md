@@ -27,3 +27,10 @@ SemaphoreCI     [![Build Status](https://semaphoreci.com/api/v1/sogen/coveralls-
 
 Scrutinizer CI  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sogen/coveralls-test/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sogen/coveralls-test/?branch=master)
 
+
+drone.io
+[![Build Status](https://drone.io/github.com/sogen/coveralls-test/status.png)](https://drone.io/github.com/sogen/coveralls-test/latest)
+
+
+Wercker
+[![wercker status](https://app.wercker.com/status/35380d57f97d2dda5214c04ac0d86fd8/m "wercker status")](https://app.wercker.com/project/bykey/35380d57f97d2dda5214c04ac0d86fd8)
