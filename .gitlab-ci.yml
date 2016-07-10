@@ -12,3 +12,10 @@ rspec:
 rubocop:
   script:
     - bundle exec rubocop
+    
+    
+    
+trigger:
+  type: deploy
+  script:
+    - "curl -X POST -F token=f2dfa5713021aaee55dc9c95e3c955 -F ref=REF_NAME https://gitlab.com/api/v3/projects/1311272/trigger/builds"
