@@ -30,3 +30,6 @@ Codeship
 [ ![Codeship Status for sogen/coveralls-test](https://codeship.com/projects/bf4c8c50-17ce-0134-846e-2a776fb5d411/status?branch=master)](https://codeship.com/projects/158603)
 
 
+SemaphoreCI
+[![Build Status](https://semaphoreci.com/api/v1/sogen/coveralls-test/branches/master/badge.svg)](https://semaphoreci.com/sogen/coveralls-test)
+
