@@ -34,3 +34,7 @@ drone.io
 
 Wercker
 [![wercker status](https://app.wercker.com/status/35380d57f97d2dda5214c04ac0d86fd8/m "wercker status")](https://app.wercker.com/project/bykey/35380d57f97d2dda5214c04ac0d86fd8)
+
+
+Solano CI
+[![](https://ci.solanolabs.com:443/sogen/coveralls-test/badges/branches/master)](https://ci.solanolabs.com:443/sogen/coveralls-test/suites/480826)
