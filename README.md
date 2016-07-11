@@ -42,3 +42,7 @@ Solano CI
 
 Appveyor CI
 [![Build status](https://ci.appveyor.com/api/projects/status/sy4wrm2st4ky58c2?svg=true)](https://ci.appveyor.com/project/sogen/coveralls-test)
+
+
+Bitrise
+[![Build Status](https://www.bitrise.io/app/a2f7043e01da6801.svg?token=lOnIyIa3RusFO0G8B7qg9w)](https://www.bitrise.io/app/a2f7043e01da6801)
