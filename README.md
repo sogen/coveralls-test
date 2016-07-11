@@ -46,3 +46,7 @@ Appveyor CI
 
 Bitrise
 [![Build Status](https://www.bitrise.io/app/a2f7043e01da6801.svg?token=lOnIyIa3RusFO0G8B7qg9w)](https://www.bitrise.io/app/a2f7043e01da6801)
+
+
+Codecov
+[![codecov](https://codecov.io/gh/sogen/coveralls-test/branch/master/graph/badge.svg)](https://codecov.io/gh/sogen/coveralls-test)
