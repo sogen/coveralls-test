@@ -38,3 +38,7 @@ Wercker
 
 Solano CI
 [![](https://ci.solanolabs.com:443/sogen/coveralls-test/badges/branches/master)](https://ci.solanolabs.com:443/sogen/coveralls-test/suites/480826)
+
+
+Appveyor CI
+[![Build status](https://ci.appveyor.com/api/projects/status/sy4wrm2st4ky58c2?svg=true)](https://ci.appveyor.com/project/sogen/coveralls-test)
