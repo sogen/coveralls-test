@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
-gem "coveralls", "0.8.2"
+gem "coveralls"
 gem "rspec"
 gem "rake"
+gem 'codecov', :require => false, :group => :test
